@@ -5,7 +5,7 @@ import java.util.Map;
 
 import com.ly.entity.Activity;
 import com.ly.entity.NoteActivity;
-import com.tarena.dao.MyBatisRepository;
+
 
 @MyBatisRepository
 public interface ActivityMapper {

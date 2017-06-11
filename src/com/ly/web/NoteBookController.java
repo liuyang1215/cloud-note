@@ -14,7 +14,6 @@ import com.ly.entity.NoteBook;
 import com.ly.entity.Result;
 import com.ly.entity.User;
 import com.ly.service.NoteBookService;
-import com.tarena.web.BaseController;
 
 @Controller
 @RequestMapping("/notebook")

@@ -1,7 +1,5 @@
 package com.ly.entity;
 
-import com.tarena.entity.Entity;
-
 public class NoteActivity extends Entity {
 
 	private static final long serialVersionUID = -7658922989028860908L;

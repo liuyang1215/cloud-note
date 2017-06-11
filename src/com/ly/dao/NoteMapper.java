@@ -3,7 +3,6 @@ package com.ly.dao;
 import java.util.List;
 
 import com.ly.entity.Note;
-import com.tarena.dao.MyBatisRepository;
 
 @MyBatisRepository
 public interface NoteMapper {

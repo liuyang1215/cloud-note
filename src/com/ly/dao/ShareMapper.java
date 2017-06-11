@@ -4,7 +4,6 @@ import java.util.List;
 import java.util.Map;
 
 import com.ly.entity.Share;
-import com.tarena.dao.MyBatisRepository;
 
 @MyBatisRepository
 public interface ShareMapper {

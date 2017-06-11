@@ -3,7 +3,6 @@ package com.ly.dao;
 import java.util.List;
 
 import com.ly.entity.NoteBook;
-import com.tarena.dao.MyBatisRepository;
 
 @MyBatisRepository
 public interface NoteBookMapper {

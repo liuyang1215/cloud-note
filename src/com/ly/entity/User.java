@@ -1,7 +1,5 @@
 package com.ly.entity;
 
-import com.tarena.entity.Entity;
-
 public class User extends Entity {
 
 	private static final long serialVersionUID = 1776757169185464752L;

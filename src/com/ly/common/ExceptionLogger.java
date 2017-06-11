@@ -15,7 +15,7 @@ import org.springframework.web.context.request.ServletRequestAttributes;
 
 import com.ly.entity.Result;
 import com.ly.entity.User;
-import com.tarena.common.BusinessException;
+
 
 /**
  *	记录异常日志

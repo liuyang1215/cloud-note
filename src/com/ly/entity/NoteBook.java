@@ -2,8 +2,6 @@ package com.ly.entity;
 
 import java.sql.Timestamp;
 
-import com.tarena.entity.Entity;
-
 public class NoteBook extends Entity {
 
 	private static final long serialVersionUID = 6910896151696578033L;
