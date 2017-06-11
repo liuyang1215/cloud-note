@@ -100,5 +100,5 @@ public class ActivityService {
 		na.setCn_note_activity_down(down + 1);
 		activityMapper.updateNoteActivity(na);
 	}
-
 }
+
